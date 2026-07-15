@@ -1,7 +1,7 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include < string.h >
 #include <assert.h>
-//�ִ�strcpy
+//手搓strcpy
 char* mystrcpy(char* p1, const char* p2)
 {
 	char* dest = p1;

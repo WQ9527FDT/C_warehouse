@@ -1,0 +1,19 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Force UTF-8 encoding for source files
+*.c text diff=csharp encoding=UTF-8
+*.h text diff=csharp encoding=UTF-8
+*.sln text encoding=UTF-8
+*.vcxproj text encoding=UTF-8
+*.vcxproj.filters text encoding=UTF-8
+*.vcxproj.user text encoding=UTF-8
+
+# Binary files
+*.exe binary
+*.dll binary
+*.pdb binary
+*.obj binary
+*.ilk binary
+*.log binary
+*.idb binary

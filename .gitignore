@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+bld/
+
+# Object files
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.log
+*.idb
+*.ipch
+*.tlog
+*.recipe
+*.lastbuildstate
+*.FileContentIndex*
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Object files
+*.slo
+*.lo
+
+# Linker output
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+*.swp
+*.swo
+*~
